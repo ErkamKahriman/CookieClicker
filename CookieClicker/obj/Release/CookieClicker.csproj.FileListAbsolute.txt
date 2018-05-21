@@ -1,0 +1,11 @@
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\bin\Release\CookieClicker.exe.config
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\bin\Release\CookieClicker.exe
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\bin\Release\CookieClicker.pdb
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\obj\Release\CookieClicker.CookierClickerMain.resources
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\obj\Release\CookieClicker.Properties.Resources.resources
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\obj\Release\CookieClicker.csproj.GenerateResource.cache
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\obj\Release\CookieClicker.csproj.CoreCompileInputs.cache
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\obj\Release\CookieClicker.exe
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\obj\Release\CookieClicker.pdb
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\obj\Release\CookieClicker.csprojAssemblyReference.cache
+C:\Users\Erkam\source\repos\CookieClicker\CookieClicker\obj\Release\CookieClicker.Shop.resources

@@ -72,7 +72,7 @@
             // 
             // Shopbutton
             // 
-            this.Shopbutton.BackColor = System.Drawing.Color.Snow;
+            this.Shopbutton.BackColor = System.Drawing.Color.Transparent;
             this.Shopbutton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Shopbutton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Shopbutton.Font = new System.Drawing.Font("Montserrat", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -131,6 +131,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.Disable;
             this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.CausesValidation = false;
             this.ClientSize = new System.Drawing.Size(784, 461);
             this.Controls.Add(this.blockenterbutton);
             this.Controls.Add(this.authorlabel);

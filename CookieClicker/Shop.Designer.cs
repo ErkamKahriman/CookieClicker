@@ -41,7 +41,7 @@
             // 
             this.Multiplerbutton.Location = new System.Drawing.Point(13, 13);
             this.Multiplerbutton.Name = "Multiplerbutton";
-            this.Multiplerbutton.Size = new System.Drawing.Size(141, 41);
+            this.Multiplerbutton.Size = new System.Drawing.Size(140, 40);
             this.Multiplerbutton.TabIndex = 0;
             this.Multiplerbutton.TabStop = false;
             this.Multiplerbutton.Text = "Multipler Lvl.: 1";
@@ -58,7 +58,7 @@
             // 
             this.Botsbutton.Location = new System.Drawing.Point(12, 60);
             this.Botsbutton.Name = "Botsbutton";
-            this.Botsbutton.Size = new System.Drawing.Size(141, 40);
+            this.Botsbutton.Size = new System.Drawing.Size(140, 40);
             this.Botsbutton.TabIndex = 1;
             this.Botsbutton.TabStop = false;
             this.Botsbutton.Text = "Bots Lvl.: 1";
@@ -69,7 +69,7 @@
             // 
             this.BotMultiplerbutton.Location = new System.Drawing.Point(12, 106);
             this.BotMultiplerbutton.Name = "BotMultiplerbutton";
-            this.BotMultiplerbutton.Size = new System.Drawing.Size(141, 40);
+            this.BotMultiplerbutton.Size = new System.Drawing.Size(140, 40);
             this.BotMultiplerbutton.TabIndex = 2;
             this.BotMultiplerbutton.TabStop = false;
             this.BotMultiplerbutton.Text = "Bot Multipler Lvl.: 1";

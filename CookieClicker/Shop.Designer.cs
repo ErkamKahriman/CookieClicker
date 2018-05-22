@@ -84,7 +84,7 @@
             this.leaveshopbutton.ForeColor = System.Drawing.Color.White;
             this.leaveshopbutton.Location = new System.Drawing.Point(664, 12);
             this.leaveshopbutton.Name = "leaveshopbutton";
-            this.leaveshopbutton.Size = new System.Drawing.Size(124, 57);
+            this.leaveshopbutton.Size = new System.Drawing.Size(130, 60);
             this.leaveshopbutton.TabIndex = 3;
             this.leaveshopbutton.TabStop = false;
             this.leaveshopbutton.Text = "Leave Shop";
